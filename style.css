@@ -1,0 +1,33 @@
+.header-1{
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+.navbar {
+    background-color: rgba(3, 3, 189, 0.909);
+    
+}
+#profil ,#program {
+    padding-top: 5rem;
+}
+.foto img {
+    width: 100%;
+    
+}
+
+#galeri .row  {
+    padding: 0px;
+}
+.kontak {
+    padding-left: 2rem;
+}
+.kontak :hover {
+    color: rgb(17, 131, 192);
+   padding:3px; 
+}
+
+
+@media screen and (max-widt: 450px) {
+    .alamat {
+        padding-top: 100px;
+    }
+  }
